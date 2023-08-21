@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 
-### 📈 my github stats
+### 📈 my github status
 
 ## ![Azizollah`s GitHub stats](https://github-readme-stats.vercel.app/api?username=azizollahpayandeh&show_icons=true&theme=transparent)      <img alt="gmail" height="195px" width="400px" src="https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif" />
 
