@@ -37,8 +37,7 @@
 ### 💻 This week I spent my time on
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizollahpayandeh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizollahpayandeh&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 ### 🏆 most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizollahpayandeh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
