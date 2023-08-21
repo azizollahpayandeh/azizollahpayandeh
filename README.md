@@ -29,20 +29,16 @@
 ![](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 📈 my github stats
 
-## ![mohammadreza GitHub stats](https://github-readme-stats.vercel.app/api?username=spdfalcon&show_icons=true&theme=transparent)      <img alt="gmail" height="195px" width="400px" src="https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif" />
+## ![Azizollah`s GitHub stats](https://github-readme-stats.vercel.app/api?username=azizollahpayandeh&show_icons=true&theme=transparent)      <img alt="gmail" height="195px" width="400px" src="https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif" />
 
 ### 💻 This week I spent my time on
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizollahpayandeh)
 
 ### 🏆 most used lang
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizollahpayandeh)](https://github.com/anuraghazra/github-readme-stats)
 
