@@ -1,6 +1,6 @@
 # Hi there, I'm Azizollah Payandeh 
 
-## i am front-end developer
+## I am front-end developer
 
 <p>Here, I try to have an effective relationship with the community of programmers on the web and to be able to have a good friendly relationship in the field of the web. I try to put the best projects to show you.😎😎</p>
 
@@ -25,10 +25,9 @@
 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ### 📈 my github stats
@@ -39,6 +38,6 @@
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizollahpayandeh)
 
-### 🏆 most used lang
+### 🏆 most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizollahpayandeh)](https://github.com/anuraghazra/github-readme-stats)
 
