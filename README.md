@@ -35,6 +35,7 @@
 ## ![Azizollah`s GitHub stats](https://github-readme-stats.vercel.app/api?username=azizollahpayandeh&show_icons=true&theme=transparent)      <img alt="gmail" height="195px" width="400px" src="https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif" />
 
 ### 💻 This week I spent my time on
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizollahpayandeh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizollahpayandeh&exclude_repo=github-readme-stats,anuraghazra.github.io)
