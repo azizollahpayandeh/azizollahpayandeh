@@ -23,8 +23,10 @@ _ 💻 &nbsp;
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-_ 
+
+_<img src='https://github.com/azizollahpayandeh/azizollahpayandeh/blob/main/database.png?raw=true' width='20px' height='20px'>
+
+
 ### 📈 my github status
 
 ![Azizollah`s GitHub stats](https://github-readme-stats.vercel.app/api?username=azizollahpayandeh&show_icons=true&theme=radical)
