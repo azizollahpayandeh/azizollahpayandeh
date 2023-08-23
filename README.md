@@ -8,11 +8,7 @@
 - 👏 I focus most on `JavaScript` programming language.
 - 💬 To the best of my ability, I can give you information about tailwindcss/js/react and all technologies related to the front end, and `you can ask me`.
 
-### 🌹 Things I code with
-
-
-
-<h3>🔧 &nbsp; Tech Stack</h3>
+<h2>🔧 &nbsp; Tech Stack</h2>
 
 _ 💻 &nbsp; 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,8 +20,14 @@ _ 💻 &nbsp;
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-_<img src='https://github.com/azizollahpayandeh/azizollahpayandeh/blob/main/database.png?raw=true' width='20px' height='20px'>
 
+
+_ <img src='https://github.com/azizollahpayandeh/azizollahpayandeh/blob/main/pngimg.com%20-%20database_PNG1.png?raw=true' width='20px' height='20px'>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+_
 
 ### 📈 my github status
 
