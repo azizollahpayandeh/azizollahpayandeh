@@ -50,7 +50,7 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
 
 ### 💻 This week I spent my time on
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizollahpayandeh)](https://github.com/azizollahpayandeh/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizollah)](https://github.com/azizollah/github-readme-stats)
 
 ### 🏆 Most used languages
 
