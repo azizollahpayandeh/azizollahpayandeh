@@ -45,17 +45,9 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 
-### 📈 my github stat
+### 📈 my github stats
 
 ![Azizollah`s GitHub stats](https://github-readme-stats.vercel.app/api?username=azizollahpayandeh&show_icons=true&theme=radical)
-
-### 💻 This week I spent my time on
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizollah)](https://github.com/azizollah/github-readme-stats)
-
-### 🏆 Most used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizollahpayandeh)](https://github.com/azizollahpayandeh/github-readme-stats)
 
 
 <h2>📞 &nbsp; Connect Me</h2>
@@ -77,6 +69,7 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
     <img src='https://img.shields.io/badge/LinkedIn-azizollahpayandeh-blue?style=flat&logo=Linkedin'>
   </a>
 </p>
+
 
 
 
