@@ -6,6 +6,7 @@
 
 - 💪 I am currently focusing more on `training` and improving my soft and hard skills.
 - 👏 I focus most on `JavaScript` programming language.
+- 🧐 Now I am studying `Redux` and `Next.js`.
 - 💬 To the best of my ability, I can give you information about tailwindcss/js/react and all technologies related to the front end, and `you can ask me`.
 
 <h2>🛠 &nbsp; Tech Stack</h2>
@@ -44,7 +45,7 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 
-### 📈 my github status
+### 📈 my github stat
 
 ![Azizollah`s GitHub stats](https://github-readme-stats.vercel.app/api?username=azizollahpayandeh&show_icons=true&theme=radical)
 
@@ -68,5 +69,14 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
   </a>
       <a href='https://instagram.com/ars.alanpa'>
     <img src='https://img.shields.io/badge/Instagram-ars.alanpa-red?style=flat&logo=instagram'>
+  </a> 
+</p>
+<p align='center'>
+    </a>
+      <a href='https://www.linkedin.com/in/azizollah-payandeh'>
+    <img src='https://img.shields.io/badge/LinkedIn-azizollahpayandeh-blue?style=flat&logo=Linkedin'>
   </a>
 </p>
+
+
+
