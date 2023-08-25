@@ -50,6 +50,16 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
 ![Azizollah`s GitHub stats](https://github-readme-stats.vercel.app/api?username=azizollahpayandeh&show_icons=true&theme=radical)
 
 
+### 💻 This week I spent my time on
+
+
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=azizollahpayandeh'>
+
+🏆 most used lang
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=azizollahpayandeh'>
+
+
 <h2>📞 &nbsp; Connect Me</h2>
 
 <p align='center'>
