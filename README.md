@@ -66,16 +66,16 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
   <a href='azizollah.wb'>
     <img src='https://img.shields.io/badge/Website-Azizollah-blue?style=flat&logo=google-chrome'>
   </a>
-    <a href='https://t.me/arsalan0101/'>
+    <a href='https://t.me/arsalan0101'>
     <img src='https://img.shields.io/badge/Telegram-arsalan0101-blue?style=flat&logo=Telegram'>
   </a>
-      <a href='https://instagram.com/ars.alanpa'>
+      <a href='https://www.instagram.com/ars.alanpa'>
     <img src='https://img.shields.io/badge/Instagram-ars.alanpa-red?style=flat&logo=instagram'>
   </a> 
 </p>
 <p align='center'>
     </a>
-      <a href='https://www.linkedin.com/in/azizollah-payandeh'>
+      <a href='https://www.linkedin.com/in/azizollah-payandeh-70139b262/'>
     <img src='https://img.shields.io/badge/LinkedIn-azizollahpayandeh-blue?style=flat&logo=Linkedin'>
   </a>
 </p>
