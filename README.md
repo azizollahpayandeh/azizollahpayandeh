@@ -66,7 +66,7 @@ _🛠 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
   <a href='https://personal-site-ecru-chi.vercel.app/'>
     <img src='https://img.shields.io/badge/Website-Azizollah-blue?style=flat&logo=google-chrome'>
   </a>
-    <a href='https://t.me/arsalan0101'>
+    <a href='https://t.me/azizollah010101'>
     <img src='https://img.shields.io/badge/Telegram-arsalan0101-blue?style=flat&logo=Telegram'>
   </a>
       <a href='https://www.instagram.com/ars.alanpa'>
